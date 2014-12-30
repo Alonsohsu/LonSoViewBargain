@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_layout_1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/mail_text_to"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To : "
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+    </TextView>
+    <EditText
+        android:id="@+id/mail_send_to"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress" >
+        <requestFocus />
+    </EditText>
+    <TextView
+        android:id="@+id/mail_subject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subject : "
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+	</TextView>
+    <EditText
+        android:id="@+id/mail_edit_subject"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+    <TextView
+        android:id="@+id/mail_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Message : "
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <EditText
+        android:id="@+id/mail_edit_msg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:lines="5" />
+    <Button
+        android:id="@+id/mail_send"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Send" >
+	</Button>
+</LinearLayout>

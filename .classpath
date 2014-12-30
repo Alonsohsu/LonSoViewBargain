@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/GoogleAdMobAdsSdk-6.3.1.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="H:/Android/啾4i看網拍/LonSoViewBargain-v3.2.1/LonSoViewBargain/libs/jsoup-1.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Android/Envirment Setup/JakeWharton-ActionBarSherlock-e5c2d1c/library/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alonso/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock/libs/android-support-v4.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

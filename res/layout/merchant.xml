@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <LinearLayout
+        android:id="@+id/merchant_ad"
+        android:orientation="vertical" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ></LinearLayout>
+    <TextView 
+        android:layout_height="wrap_content" 
+        android:id="@+id/merchant_text" 
+        android:layout_below="@+id/merchant_ad"
+        android:layout_width="fill_parent" 
+        android:text="">
+    </TextView>
+    <Button
+        android:id="@+id/merchant_web"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/merchant_text"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="57dp"
+        android:text="官方粉絲團" />
+    
+</RelativeLayout>

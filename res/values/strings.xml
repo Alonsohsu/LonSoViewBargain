@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">啾4i看網拍</string>
+    <string name="action_settings">Settings</string>
+    <string name="homepage_welcome">官方公告:</string>
+    <string name="menu_about">關於</string>
+    <string name="menu_mail">聯絡我們</string>
+    <string name="menu_share">分享此APP到FB</string>
+    <string name="menu_logout">登出FB</string>
+    <string name="menu_setting">偏好設定</string>
+    <string name="menu_exit">離開APP</string>
+    <string name="homepage_about_title">關於 啾4i看網拍</string>
+    <string name="homepage_about_comfirm">確認</string>
+    <string name="homepage_connect_err">網路異常</string>
+    <string name="downloading_msg">下載中...</string>
+    <string name="product_add">加入升火區</string>
+    <string name="list_content_share">分享到FB</string>
+    <string name="search_hint">排序方法依</string>
+    <string name="page_size">PG_SIZE</string>
+    
+    <string-array name="sortFavor">
+        <item>直購價低到高</item>
+        <item>直購價高到低</item>
+        <item>出價次數低到高</item>
+        <item>出價次數高到低</item>
+        <item>全部滅火</item>
+	</string-array>
+	
+    <string-array name="sortProduct">
+        <item>直購價低到高</item>
+        <item>直購價高到低</item>
+        <item>出價次數低到高</item>
+        <item>出價次數高到低</item>
+	</string-array>
+	
+    <string-array name="shopName">
+        <item>Star-Q</item>
+        <item>A-SO-BI</item>
+        <item>Lulu</item>
+        <item>里琪</item>
+        <item>86girl</item>
+        <item>貓咪曬月亮</item>
+        <item>imagine girl</item>
+        <item>Catworld 時尚小鋪</item>
+        <item>two do</item>
+        <item>BAI 白媽媽</item>
+        <item>彼兔 betwo</item>
+        <item>eyescreme</item>
+        <item>joyce shop</item>
+        <item>Queen Shop</item>
+        <item>rainbow shop</item>
+        <item>sweesa</item>
+        <item>starmimi</item>
+        <item>東京著衣</item>
+        <item>PUFII</item>
+	</string-array>
+	
+    <string-array name="shopID">
+        <item>Y7627187877</item>
+        <item>Y2578791907</item>
+        <item>Y6572816397</item>
+        <item>Y6632811107</item>
+        <item>Y7528770568</item>
+        <item>Y2775593192</item>
+        <item>Y6862822083</item>
+        <item>Y6611727893</item>
+        <item>Y8961829659</item>
+        <item>Y0609871623</item>
+        <item>Y7099926809</item>
+        <item>Y7379251092</item>
+        <item>qoo3912</item>
+        <item>Y9830203050</item>
+        <item>Y9005015956</item>
+        <item>Y8811362116</item>
+        <item>Y5985676078</item>
+        <item>Y2600835525</item>
+        <item>Y9206609828</item>
+	</string-array>
+	
+    <string-array name="merchantShop">
+        <item>啾4i看網拍</item>
+        <item>Feather Style 羽風閣</item>
+	</string-array>
+</resources>
